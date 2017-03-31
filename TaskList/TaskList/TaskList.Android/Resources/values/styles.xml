@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <!--
+    Base application theme for API 11+.
+  -->
+  <style name="MainTheme" parent="Theme.AppCompat">
+    <!-- Customizations go here -->
+  </style>
+</resources>
