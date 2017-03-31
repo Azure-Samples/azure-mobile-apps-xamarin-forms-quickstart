@@ -3,7 +3,7 @@
   <!--
     Base application theme for API 11+.
   -->
-  <style name="MainTheme" parent="Theme.AppCompat">
-    <!-- Customizations go here -->
+  <style name="MainTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <item name="windowActionBar">false</item>
   </style>
 </resources>
